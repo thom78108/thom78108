@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thom78108
-- 👀 I’m interested in statistics, probability and data science.
-- 🌱 I’m currently learning deep learning and NTFs.
+- 👀 I’m interested in statistics, probability, optimization and machine learning.
+- 🌱 I’m currently learning deep learning.
 - 💞️ I’m looking to collaborate on any funs project where I can learn new skills.
 - 📫 How to reach me : thomasf76520@gmail.com
 
