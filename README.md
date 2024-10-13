@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thom78108
-- 👀 I’m interested in statistics, probability, optimization and machine learning.
-- 🌱 I’m currently learning causal inference.
-- 💞️ I’m looking to collaborate on any fun projects where I can learn new skills.
+- 👀 I’m a professional in statistics, probability, linear optimization and machine learning.
+- 🌱 I’m currently learning LLMs.
+- 💞️ I’m looking to help you with your data science projects.
 - 📫 How to reach me : thomasf76520@gmail.com
 
 <!---
