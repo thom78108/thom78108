@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thom78108
-- 👀 I’m a Sr Data Scientist specializing in experimentation, causal inference, ML, data engineering and LLMs
+- 👀 I’m a Lead Data Scientist specializing in experimentation, causal inference, ML, data engineering and LLMs
 - 💞️ I’m looking to help you with your data science projects
 - 📫 How to reach me : thomasf76520@gmail.com
 
